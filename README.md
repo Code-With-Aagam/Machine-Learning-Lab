@@ -13,4 +13,7 @@
 - [Assignment-11 - Regularization Techniques in Regression](https://github.com/Code-With-Aagam/Machine_Learning_Lab/tree/main/Assignment-11)
 - [Assignment-12 - Polynomial Regression for Non-Linear Modeling](https://github.com/Code-With-Aagam/Machine_Learning_Lab/tree/main/Assignment-12)
 - [Assignment-13 - Support Vector Machines for Classification](https://github.com/Code-With-Aagam/Machine_Learning_Lab/tree/main/Assignment-13)
-
+- [Assignment-14 - Neural Networks for Image Classification](https://github.com/Code-With-Aagam/Machine_Learning_Lab/tree/main/Assignment-14)
+- [Assignment-15 - Clustering for Customer Segmentation](https://github.com/Code-With-Aagam/Machine_Learning_Lab/tree/main/Assignment-15)
+- [Assignment-16 - Dimensionality Reduction using PCA and t-SNE](https://github.com/Code-With-Aagam/Machine_Learning_Lab/tree/main/Assignment-16)
+- [Assignment-17 - ARIMA and LSTM for Stock Market Analysis](https://github.com/Code-With-Aagam/Machine_Learning_Lab/tree/main/Assignment-17)
