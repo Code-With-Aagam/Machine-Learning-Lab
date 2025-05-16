@@ -17,3 +17,6 @@
 - [Assignment-15 - Clustering for Customer Segmentation](https://github.com/Code-With-Aagam/Machine_Learning_Lab/tree/main/Assignment-15)
 - [Assignment-16 - Dimensionality Reduction using PCA and t-SNE](https://github.com/Code-With-Aagam/Machine_Learning_Lab/tree/main/Assignment-16)
 - [Assignment-17 - ARIMA and LSTM for Stock Market Analysis](https://github.com/Code-With-Aagam/Machine_Learning_Lab/tree/main/Assignment-17)
+- [Assignment-18 - Reinforcement Learning with Q-Learning](https://github.com/Code-With-Aagam/Machine_Learning_Lab/tree/main/Assignment-18)
+- [Assignment-19 - Deep Learning with Convolutional Neural Networks (CNNs)](https://github.com/Code-With-Aagam/Machine_Learning_Lab/tree/main/Assignment-19)
+- [Assignment-20 - Real-World ML Project Integration](https://github.com/Code-With-Aagam/Machine_Learning_Lab/tree/main/Assignment-20)
